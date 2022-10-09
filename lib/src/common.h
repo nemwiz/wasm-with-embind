@@ -1,6 +1,7 @@
 #include <string>
 #include <vector>
 #include <iostream>
+#include <stdio.h>
 
 namespace dummy {
     typedef std::string String;
